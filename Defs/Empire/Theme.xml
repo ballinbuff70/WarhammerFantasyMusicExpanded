@@ -3,7 +3,7 @@
         <defName>ME_MedievalFantasy_Empire</defName>
         <label>Music Expanded Warhammer: Empire</label>
 		<iconPath>UI/Icons/Empire</iconPath>
-        <description>Your Kingdom awaits my lord... remember those? Anyway. Ehm. Your Kingdom DOES await in this theme. This is sweeping orchestral music in an attempt to assist with Medieval/Fantasy play-throughs. Expect grandiose vocal epics and the occasional playful bard-like acoustic adventure.</description>
+        <description>Your Empire awaits, Count. Marshall the men!</description>
         <sounds>
             <li>ME_Empire_Scenario_Begin</li>
             <li>ME_Empire_Quest_Complete</li>

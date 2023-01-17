@@ -3,7 +3,7 @@
         <defName>ME_MedievalFantasy_DarkElf</defName>
         <label>Music Expanded Warhemmer: Dark Elf</label>
 		<iconPath>UI/Icons/DarkElves</iconPath>
-        <description>Your Kingdom awaits my lord... remember those? Anyway. Ehm. Your Kingdom DOES await in this theme. This is sweeping orchestral music in an attempt to assist with Medieval/Fantasy play-throughs. Expect grandiose vocal epics and the occasional playful bard-like acoustic adventure.</description>
+        <description>Your dominion awaits my dark and powerful Druchii Dreadlord.</description>
         <sounds>
             <li>ME_DarkElf_Scenario_Begin</li>
             <li>ME_DarkElf_Quest_Complete</li>
