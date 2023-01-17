@@ -1,0 +1,107 @@
+<Defs>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Catacombs</label>
+        <defName>ME_VampireCounts_Catacombs</defName>
+        <clipPath>MusicExpanded/VampireCounts/Catacombs</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Drakenhof</label>
+        <defName>ME_VampireCounts_Drakenhof</defName>
+        <clipPath>MusicExpanded/VampireCounts/Drakenhof</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Fell Spirits</label>
+        <defName>ME_VampireCounts_FellSpirits</defName>
+        <clipPath>MusicExpanded/VampireCounts/FellSpirits</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Liber Mortis</label>
+        <defName>ME_VampireCounts_LiberMortis</defName>
+        <clipPath>MusicExpanded/VampireCounts/LiberMortis</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Lichmaster</label>
+        <defName>ME_VampireCounts_Lichmaster</defName>
+        <clipPath>MusicExpanded/VampireCounts/Lichmaster</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Lost Souls</label>
+        <defName>ME_VampireCounts_LostSouls</defName>
+        <clipPath>MusicExpanded/VampireCounts/LostSouls</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - UnholyPower</label>
+        <defName>ME_VampireCounts_UnholyPower</defName>
+        <clipPath>MusicExpanded/VampireCounts/UnholyPower</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Master Of The Dead</label>
+        <defName>ME_VampireCounts_MasterOfTheDead</defName>
+        <clipPath>MusicExpanded/VampireCounts/MasterOfTheDead</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Midnight Aristocracy</label>
+        <defName>ME_VampireCounts_MidnightAristocracy</defName>
+        <clipPath>MusicExpanded/VampireCounts/MidnightAristocracy</clipPath>
+        <allowedSeasons>
+            <li>Winter</li>
+        </allowedSeasons>		
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Morrsliebs Gaze</label>
+        <defName>ME_VampireCounts_MorrsliebsGaze</defName>
+        <clipPath>MusicExpanded/VampireCounts/MorrsliebsGaze</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Night Terrors</label>
+        <defName>ME_VampireCounts_NightTerrors</defName>
+        <clipPath>MusicExpanded/VampireCounts/NightTerrors</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Sylvania</label>
+        <defName>ME_VampireCounts_Sylvania</defName>
+        <clipPath>MusicExpanded/VampireCounts/Sylvania</clipPath>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - The Blood Kiss</label>
+        <defName>ME_VampireCounts_TheBloodKiss</defName>
+        <clipPath>MusicExpanded/VampireCounts/TheBloodKiss</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Whispers Of The Dead</label>
+        <defName>ME_VampireCounts_WhispersOfTheDead</defName>
+        <clipPath>MusicExpanded/VampireCounts/WhispersOfTheDead</clipPath>
+    </MusicExpanded.TrackDef>
+	
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Mannfred Von Carstein</label>
+        <defName>ME_VampireCounts_MannfredVonCarstein_Menu</defName>
+        <clipPath>MusicExpanded/VampireCounts/MannfredVonCarstein</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - The Restless Dead</label>
+        <defName>ME_VampireCounts_TheRestlessDead_BattleSmall</defName>
+        <clipPath>MusicExpanded/VampireCounts/TheRestlessDead</clipPath>
+        <cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Heresy</label>
+        <defName>ME_VampireCounts_DanseMacabre_BattleMedium</defName>
+        <clipPath>MusicExpanded/VampireCounts/Heresy</clipPath>
+        <cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Danse Macabre</label>
+        <defName>ME_VampireCounts_DanseMacabre_BattleLarge</defName>
+        <clipPath>MusicExpanded/VampireCounts/DanseMacabre</clipPath>
+        <cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Vampire Counts - Undead Rising</label>
+        <defName>ME_VampireCounts_UndeadRising_BattleLegendary</defName>
+        <clipPath>MusicExpanded/VampireCounts/UndeadRising</clipPath>
+        <cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+
+</Defs>

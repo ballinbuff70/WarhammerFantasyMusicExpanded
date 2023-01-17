@@ -1,0 +1,112 @@
+<Defs>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Age Of Vengeance</label>
+        <defName>ME_DarkElf_AgeOfVengeance</defName>
+        <clipPath>MusicExpanded/DarkElf/AgeOfVengeance</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - A Storm Of Magic</label>
+        <defName>ME_DarkElf_AStormOfMagic</defName>
+        <clipPath>MusicExpanded/DarkElf/AStormOfMagic</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Dark Sorceries</label>
+        <defName>ME_DarkElf_DarkSorceries</defName>
+        <clipPath>MusicExpanded/DarkElf/DarkSorceries</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Druchii</label>
+        <defName>ME_DarkElf_Druchii</defName>
+        <clipPath>MusicExpanded/DarkElf/Druchii</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Campaign Map Music</label>
+        <defName>ME_DarkElf_DarkElvesCampaignMapMusic</defName>
+        <clipPath>MusicExpanded/DarkElf/DarkElvesCampaignMapMusic</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Eternal Hatred</label>
+        <defName>ME_DarkElf_EternalHatred</defName>
+        <clipPath>MusicExpanded/DarkElf/EternalHatred</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Hag Queen</label>
+        <defName>ME_DarkElf_HagQueen</defName>
+        <clipPath>MusicExpanded/DarkElf/HagQueen</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Har Ganeth</label>
+        <defName>ME_DarkElf_HarGaneth</defName>
+        <clipPath>MusicExpanded/DarkElf/HarGaneth</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Land Of Chill</label>
+        <defName>ME_DarkElf_LandOfChill</defName>
+        <clipPath>MusicExpanded/DarkElf/LandOfChill</clipPath>
+        <allowedSeasons>
+            <li>Winter</li>
+        </allowedSeasons>		
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Phoenix King</label>
+        <defName>ME_DarkElf_PhoenixKing</defName>
+        <clipPath>MusicExpanded/DarkElf/PhoenixKing</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Reavers</label>
+        <defName>ME_DarkElf_Reavers</defName>
+        <clipPath>MusicExpanded/DarkElf/Reavers</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - The Bloody Handed God</label>
+        <defName>ME_DarkElf_TheBloodyHandedGod</defName>
+        <clipPath>MusicExpanded/DarkElf/TheBloodyHandedGod</clipPath>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - The Dark Ones</label>
+        <defName>ME_DarkElf_TheDarkOnes</defName>
+        <clipPath>MusicExpanded/DarkElf/TheDarkOnes</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - The Great Vortex</label>
+        <defName>ME_DarkElf_TheGreatVortex</defName>
+        <clipPath>MusicExpanded/DarkElf/TheGreatVortex</clipPath>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Witch King</label>
+        <defName>ME_DarkElf_WitchKing</defName>
+        <clipPath>MusicExpanded/DarkElf/WitchKing</clipPath>
+    </MusicExpanded.TrackDef>	
+	
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Widowmaker</label>
+        <defName>ME_DarkElf_Widowmaker_Menu</defName>
+        <clipPath>MusicExpanded/DarkElf/Widowmaker</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Blood Lust</label>
+        <defName>ME_DarkElf_BloodLust_BattleSmall</defName>
+        <clipPath>MusicExpanded/DarkElf/BloodLust</clipPath>
+        <cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Wrath Of Khaine</label>
+        <defName>ME_DarkElf_WrathOfKhaine_BattleMedium</defName>
+        <clipPath>MusicExpanded/DarkElf/WrathOfKhaine</clipPath>
+        <cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - The Blood Wolf</label>
+        <defName>ME_DarkElf_TheBloodWolf_BattleLarge</defName>
+        <clipPath>MusicExpanded/DarkElf/TheBloodWolf</clipPath>
+        <cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Dark Elves - Murderous Prowess</label>
+        <defName>ME_DarkElf_MurderousProwess_BattleLegendary</defName>
+        <clipPath>MusicExpanded/DarkElf/MurderousProwess</clipPath>
+        <cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+
+</Defs>

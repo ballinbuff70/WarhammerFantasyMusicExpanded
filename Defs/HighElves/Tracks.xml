@@ -1,0 +1,99 @@
+<Defs>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - A Land Of Song and War</label>
+        <defName>ME_HighElves_ALandOfSongWar</defName>
+        <clipPath>MusicExpanded/HighElves/ALandOfSongWar</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Caledors Ritual</label>
+        <defName>ME_HighElves_CaledorsRitual</defName>
+        <clipPath>MusicExpanded/HighElves/CaledorsRitual</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Children Of Ulthuan</label>
+        <defName>ME_HighElves_ChildrenOfUlthuan</defName>
+        <clipPath>MusicExpanded/HighElves/ChildrenOfUlthuan</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Heir Of Aenarion</label>
+        <defName>ME_HighElves_HeirOfAenarion</defName>
+        <clipPath>MusicExpanded/HighElves/HeirOfAenarion</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - High Loremaster</label>
+        <defName>ME_HighElves_HighLoremaster</defName>
+        <clipPath>MusicExpanded/HighElves/HighLoremaster</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Ishas Blessing</label>
+        <defName>ME_HighElves_IshasBlessing</defName>
+        <clipPath>MusicExpanded/HighElves/IshasBlessing</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Northstar</label>
+        <defName>ME_HighElves_Northstar</defName>
+        <clipPath>MusicExpanded/HighElves/Northstar</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Phoenix King</label>
+        <defName>ME_HighElves_PhoenixKing</defName>
+        <clipPath>MusicExpanded/HighElves/PhoenixKing</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Shrine Of Asuryan</label>
+        <defName>ME_HighElves_ShrineOfAsuryan</defName>
+        <clipPath>MusicExpanded/HighElves/ShrineOfAsuryan</clipPath>	
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - The Asur March</label>
+        <defName>ME_HighElves_TheAsurMarch</defName>
+        <clipPath>MusicExpanded/HighElves/TheAsurMarch</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - The Great Vortex</label>
+        <defName>ME_HighElves_TheGreatVortex</defName>
+        <clipPath>MusicExpanded/HighElves/TheGreatVortex</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - The Seafarer</label>
+        <defName>ME_HighElves_TheSeafarer</defName>
+        <clipPath>MusicExpanded/HighElves/TheSeafarer</clipPath>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>High Elves - The Ten Kingdoms</label>
+        <defName>ME_HighElves_TheTenKingdoms</defName>
+        <clipPath>MusicExpanded/HighElves/TheTenKingdoms</clipPath>
+    </MusicExpanded.TrackDef>
+	
+    <MusicExpanded.TrackDef>
+        <label>High Elves - A Storm Of Magic</label>
+        <defName>ME_HighElves_AStormOfMagic_Menu</defName>
+        <clipPath>MusicExpanded/HighElves/AStormOfMagic</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Arcane Mastery</label>
+        <defName>ME_HighElves_ArcaneMastery_BattleSmall</defName>
+        <clipPath>MusicExpanded/HighElves/ArcaneMastery</clipPath>
+        <cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Demonslayer</label>
+        <defName>ME_HighElves_Demonslayer_BattleMedium</defName>
+        <clipPath>MusicExpanded/HighElves/Demonslayer</clipPath>
+        <cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>High Elves - Dragonflame</label>
+        <defName>ME_HighElves_Dragonflame_BattleLarge</defName>
+        <clipPath>MusicExpanded/HighElves/Dragonflame</clipPath>
+        <cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>High Elves - The Blood Wolf</label>
+        <defName>ME_HighElves_TheBloodWolf_BattleLegendary</defName>
+        <clipPath>MusicExpanded/HighElves/TheBloodWolf</clipPath>
+        <cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+
+</Defs>

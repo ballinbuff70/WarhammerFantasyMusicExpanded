@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Music Expanded - Warhammer Fantasy</name>
+	<author>HappyPurging</author>
+	<packageId>HappyPurging.WarhammerFantasyMusic</packageId>
+	<supportedVersions>
+      <li>1.4</li>
+   </supportedVersions>
+	<description>
+Warhammer Fantasy music brought to Rimworld!
+	</description>
+    <modDependencies>
+        <li>
+            <packageId>musicexpanded.framework</packageId>
+            <displayName>Music Expanded Framework</displayName>
+            <downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>musicexpanded.framework</li>
+        <li>VanillaExpanded.VEE</li>
+    </loadAfter>
+</ModMetaData>

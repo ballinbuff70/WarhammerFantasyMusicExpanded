@@ -1,0 +1,41 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_MedievalFantasy_Empire</defName>
+        <label>Music Expanded Warhammer: Empire</label>
+		<iconPath>UI/Icons/Empire</iconPath>
+        <description>Your Kingdom awaits my lord... remember those? Anyway. Ehm. Your Kingdom DOES await in this theme. This is sweeping orchestral music in an attempt to assist with Medieval/Fantasy play-throughs. Expect grandiose vocal epics and the occasional playful bard-like acoustic adventure.</description>
+        <sounds>
+            <li>ME_Empire_Scenario_Begin</li>
+            <li>ME_Empire_Quest_Complete</li>
+            <li>ME_Empire_Invasion_Alert</li>
+        </sounds>
+        <tracks>
+            <li>ME_Empire_BastionOfFaith</li>
+            <li>ME_Empire_BlackRose</li>
+            <li>ME_Empire_DaughterOfMercy</li>
+            <li>ME_Empire_HammerTimeDynamic</li>
+            <li>ME_Empire_HeirOfSigmar</li>
+            <li>ME_Empire_LightIntoDark</li>
+            <li>ME_Empire_MorrsGardens</li>
+            <li>ME_Empire_ProtectorOfTheEmpire</li>
+            <li>ME_Empire_LordOfWinter</li>
+            <li>ME_Empire_RhyasHymn</li>
+            <li>ME_Empire_SupremePatriarch</li>
+            <li>ME_Empire_TheLastDefense</li>
+            <li>ME_Empire_TheMoot</li>
+            <li>ME_Empire_TheTwinTailedComet</li>
+            <li>ME_Empire_UnderTheDrakwald</li>
+            <li>ME_Empire_FaithSteelGunpowder_Menu</li>
+            <li>ME_Empire_DemonslayerDynamic_BattleSmall</li>
+            <li>ME_Empire_ForgedByFire_BattleMedium</li>
+            <li>ME_Empire_FaithSteelGunpowder_BattleLarge</li>
+            <li>ME_Empire_HourOfDarkness_BattleLegendary</li>
+            <!-- Secret -->
+            <li>ME_Shared_ManInBlack</li>
+            <li>ME_MedievalFantasy_EvelynsSong</li>
+            <li>ME_MedievalFantasy_LoneColonist</li>
+            <li>ME_MedievalFantasy_Snowfall</li>
+            <li>ME_MedievalFantasy_GoldForest</li>
+        </tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

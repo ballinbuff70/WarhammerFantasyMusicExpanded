@@ -1,0 +1,112 @@
+<Defs>
+    <MusicExpanded.TrackDef>
+        <label>Empire - BastionOfFaith</label>
+        <defName>ME_Empire_BastionOfFaith</defName>
+        <clipPath>MusicExpanded/Empire/BastionOfFaith</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Black Rose</label>
+        <defName>ME_Empire_BlackRose</defName>
+        <clipPath>MusicExpanded/Empire/BlackRose</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Daughter Of Mercy</label>
+        <defName>ME_Empire_DaughterOfMercy</defName>
+        <clipPath>MusicExpanded/Empire/DaughterOfMercy</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Hammer Time Dynamic</label>
+        <defName>ME_Empire_HammerTimeDynamic</defName>
+        <clipPath>MusicExpanded/Empire/HammerTimeDynamic</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Heir Of Sigmar</label>
+        <defName>ME_Empire_HeirOfSigmar</defName>
+        <clipPath>MusicExpanded/Empire/HeirOfSigmar</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Light Into Dark</label>
+        <defName>ME_Empire_LightIntoDark</defName>
+        <clipPath>MusicExpanded/Empire/LightIntoDark</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Morrs Gardens</label>
+        <defName>ME_Empire_MorrsGardens</defName>
+        <clipPath>MusicExpanded/Empire/MorrsGardens</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Protector Of The Empire</label>
+        <defName>ME_Empire_ProtectorOfTheEmpire</defName>
+        <clipPath>MusicExpanded/Empire/ProtectorOfTheEmpire</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Lord Of Winter</label>
+        <defName>ME_Empire_LordOfWinter</defName>
+        <clipPath>MusicExpanded/Empire/LordOfWinter</clipPath>
+        <allowedSeasons>
+            <li>Winter</li>
+        </allowedSeasons>		
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Rhyas Hymn</label>
+        <defName>ME_Empire_RhyasHymn</defName>
+        <clipPath>MusicExpanded/Empire/RhyasHymn</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Supreme Patriarch</label>
+        <defName>ME_Empire_SupremePatriarch</defName>
+        <clipPath>MusicExpanded/Empire/SupremePatriarch</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - The Last Defense</label>
+        <defName>ME_Empire_TheLastDefense</defName>
+        <clipPath>MusicExpanded/Empire/TheLastDefense</clipPath>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Empire - The Moot</label>
+        <defName>ME_Empire_TheMoot</defName>
+        <clipPath>MusicExpanded/Empire/TheMoot</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - The Twin Tailed Comet</label>
+        <defName>ME_Empire_TheTwinTailedComet</defName>
+        <clipPath>MusicExpanded/Empire/TheTwinTailedComet</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Under The Drakwald</label>
+        <defName>ME_Empire_UnderTheDrakwald</defName>
+        <clipPath>MusicExpanded/Empire/UnderTheDrakwald</clipPath>
+    </MusicExpanded.TrackDef>	
+	
+    <MusicExpanded.TrackDef>
+        <label>Empire - Faith Steel Gunpowder</label>
+        <defName>ME_Empire_FaithSteelGunpowder_Menu</defName>
+        <clipPath>MusicExpanded/Empire/FaithSteelGunpowder</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Empire - Demonslayer Dynamic</label>
+        <defName>ME_Empire_DemonslayerDynamic_BattleSmall</defName>
+        <clipPath>MusicExpanded/Empire/DemonslayerDynamic</clipPath>
+        <cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Forged By Fire</label>
+        <defName>ME_Empire_ForgedByFire_BattleMedium</defName>
+        <clipPath>MusicExpanded/Empire/ForgedByFire</clipPath>
+        <cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Empire - Faith Steel Gunpowder</label>
+        <defName>ME_Empire_FaithSteelGunpowder_BattleLarge</defName>
+        <clipPath>MusicExpanded/Empire/FaithSteelGunpowder</clipPath>
+        <cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Empire - Hour Of Darkness</label>
+        <defName>ME_Empire_HourOfDarkness_BattleLegendary</defName>
+        <clipPath>MusicExpanded/Empire/HourOfDarkness</clipPath>
+        <cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+
+</Defs>

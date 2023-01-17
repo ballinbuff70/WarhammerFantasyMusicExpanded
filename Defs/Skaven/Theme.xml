@@ -1,0 +1,38 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_MedievalFantasy_Skaven</defName>
+        <label>Music Expanded Warhammer: Skaven</label>
+		<iconPath>UI/Icons/Skaven</iconPath>
+        <description>Your Kingdom awaits my lord... remember those? Anyway. Ehm. Your Kingdom DOES await in this theme. This is sweeping orchestral music in an attempt to assist with Medieval/Fantasy play-throughs. Expect grandiose vocal epics and the occasional playful bard-like acoustic adventure.</description>
+        <sounds>
+            <li>ME_Skaven_Scenario_Begin</li>
+            <li>ME_Skaven_Quest_Complete</li>
+            <li>ME_Skaven_Invasion_Alert</li>
+        </sounds>
+        <tracks>
+            <li>ME_Skaven_ClanPestilens</li>
+            <li>ME_Skaven_CouncilOfThirteen</li>
+            <li>ME_Skaven_FromTheDepths</li>
+            <li>ME_Skaven_GreySeer</li>
+            <li>ME_Skaven_Headtaker</li>
+            <li>ME_Skaven_LiberBubonicus</li>
+            <li>ME_Skaven_LordOfDecay</li>
+            <li>ME_Skaven_PlagueRuin</li>
+            <li>ME_Skaven_PlaguetimeOver</li>
+            <li>ME_Skaven_Skavenblight</li>
+            <li>ME_Skaven_TheHornedRat</li>
+            <li>ME_Skaven_MordheimCityoftheDamned</li>
+            <li>ME_Skaven_FromTheDepths_Menu</li>
+            <li>ME_Skaven_ERatIcate_BattleSmall</li>
+            <li>ME_Skaven_WithoutReMors_BattleMedium</li>
+            <li>ME_Skaven_ToRattle_BattleLarge</li>
+            <li>ME_Skaven_Vermintide_BattleLegendary</li>
+            <!-- Secret -->
+            <li>ME_Shared_ManInBlack</li>
+            <li>ME_MedievalFantasy_EvelynsSong</li>
+            <li>ME_MedievalFantasy_LoneColonist</li>
+            <li>ME_MedievalFantasy_Snowfall</li>
+            <li>ME_MedievalFantasy_GoldForest</li>
+        </tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

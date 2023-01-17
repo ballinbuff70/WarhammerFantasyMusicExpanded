@@ -1,0 +1,94 @@
+<Defs>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Clan Pestilens</label>
+        <defName>ME_Skaven_ClanPestilens</defName>
+        <clipPath>MusicExpanded/Skaven/ClanPestilens</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Council Of Thirteen</label>
+        <defName>ME_Skaven_CouncilOfThirteen</defName>
+        <clipPath>MusicExpanded/Skaven/CouncilOfThirteen</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - From The Depths</label>
+        <defName>ME_Skaven_FromTheDepths</defName>
+        <clipPath>MusicExpanded/Skaven/FromTheDepths</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Grey Seer</label>
+        <defName>ME_Skaven_GreySeer</defName>
+        <clipPath>MusicExpanded/Skaven/GreySeer</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Headtaker</label>
+        <defName>ME_Skaven_Headtaker</defName>
+        <clipPath>MusicExpanded/Skaven/Headtaker</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Liber Bubonicus</label>
+        <defName>ME_Skaven_LiberBubonicus</defName>
+        <clipPath>MusicExpanded/Skaven/LiberBubonicus</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Lord Of Decay</label>
+        <defName>ME_Skaven_LordOfDecay</defName>
+        <clipPath>MusicExpanded/Skaven/LordOfDecay</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Plague Ruin</label>
+        <defName>ME_Skaven_PlagueRuin</defName>
+        <clipPath>MusicExpanded/Skaven/PlagueRuin</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Plaguetime Over</label>
+        <defName>ME_Skaven_PlaguetimeOver</defName>
+        <clipPath>MusicExpanded/Skaven/PlaguetimeOver</clipPath>	
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Skavenblight</label>
+        <defName>ME_Skaven_Skavenblight</defName>
+        <clipPath>MusicExpanded/Skaven/Skavenblight</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - The Horned Rat</label>
+        <defName>ME_Skaven_TheHornedRat</defName>
+        <clipPath>MusicExpanded/Skaven/TheHornedRat</clipPath>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Mordheim City of the Damned</label>
+        <defName>ME_Skaven_MordheimCityoftheDamned</defName>
+        <clipPath>MusicExpanded/Skaven/MordheimCityoftheDamned</clipPath>
+    </MusicExpanded.TrackDef>
+	
+    <MusicExpanded.TrackDef>
+        <label>Skaven - From The Depths</label>
+        <defName>ME_Skaven_FromTheDepths_Menu</defName>
+        <clipPath>MusicExpanded/Skaven/FromTheDepths</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Skaven - ERatIcate</label>
+        <defName>ME_Skaven_ERatIcate_BattleSmall</defName>
+        <clipPath>MusicExpanded/Skaven/ERatIcate</clipPath>
+        <cue>BattleSmall</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Without ReMors</label>
+        <defName>ME_Skaven_WithoutReMors_BattleMedium</defName>
+        <clipPath>MusicExpanded/Skaven/WithoutReMors</clipPath>
+        <cue>BattleMedium</cue>
+    </MusicExpanded.TrackDef>	
+    <MusicExpanded.TrackDef>
+        <label>Skaven - To Rattle</label>
+        <defName>ME_Skaven_ToRattle_BattleLarge</defName>
+        <clipPath>MusicExpanded/Skaven/ToRattle</clipPath>
+        <cue>BattleLarge</cue>
+    </MusicExpanded.TrackDef>
+    <MusicExpanded.TrackDef>
+        <label>Skaven - Vermintide</label>
+        <defName>ME_Skaven_Vermintide_BattleLegendary</defName>
+        <clipPath>MusicExpanded/Skaven/Vermintide</clipPath>
+        <cue>BattleLegendary</cue>
+    </MusicExpanded.TrackDef>
+
+</Defs>

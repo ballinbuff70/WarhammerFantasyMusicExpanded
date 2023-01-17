@@ -1,0 +1,35 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_MedievalFantasy_DarkElf</defName>
+        <label>Music Expanded Warhemmer: Dark Elf</label>
+		<iconPath>UI/Icons/DarkElves</iconPath>
+        <description>Your Kingdom awaits my lord... remember those? Anyway. Ehm. Your Kingdom DOES await in this theme. This is sweeping orchestral music in an attempt to assist with Medieval/Fantasy play-throughs. Expect grandiose vocal epics and the occasional playful bard-like acoustic adventure.</description>
+        <sounds>
+            <li>ME_DarkElf_Scenario_Begin</li>
+            <li>ME_DarkElf_Quest_Complete</li>
+            <li>ME_DarkElf_Invasion_Alert</li>
+        </sounds>
+        <tracks>
+            <li>ME_DarkElf_AgeOfVengeance</li>
+            <li>ME_DarkElf_AStormOfMagic</li>
+            <li>ME_DarkElf_DarkSorceries</li>
+            <li>ME_DarkElf_Druchii</li>
+            <li>ME_DarkElf_DarkElvesCampaignMapMusic</li>
+            <li>ME_DarkElf_EternalHatred</li>
+            <li>ME_DarkElf_HagQueen</li>
+            <li>ME_DarkElf_HarGaneth</li>
+            <li>ME_DarkElf_LandOfChill</li>
+            <li>ME_DarkElf_PhoenixKing</li>
+            <li>ME_DarkElf_Reavers</li>
+            <li>ME_DarkElf_TheBloodyHandedGod</li>
+            <li>ME_DarkElf_TheDarkOnes</li>
+            <li>ME_DarkElf_TheGreatVortex</li>
+            <li>ME_DarkElf_WitchKing</li>
+            <li>ME_DarkElf_Widowmaker_Menu</li>
+            <li>ME_DarkElf_BloodLust_BattleSmall</li>
+            <li>ME_DarkElf_WrathOfKhaine_BattleMedium</li>
+            <li>ME_DarkElf_TheBloodWolf_BattleLarge</li>
+            <li>ME_DarkElf_MurderousProwess_BattleLegendary</li>
+        </tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>
