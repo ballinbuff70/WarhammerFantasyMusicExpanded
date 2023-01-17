@@ -22,6 +22,7 @@ All music rights and credit to Creative Assembly.
     </modDependencies>
     <loadAfter>
         <li>musicexpanded.framework</li>
+        <li>musicexpanded.core</li>
         <li>VanillaExpanded.VEE</li>
     </loadAfter>
 </ModMetaData>
